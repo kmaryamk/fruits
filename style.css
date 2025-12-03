@@ -1,0 +1,8 @@
+.nav-link.active{
+    background-color: rgb(91, 207, 91) !important;
+    color: white !important;
+}
+
+.body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
